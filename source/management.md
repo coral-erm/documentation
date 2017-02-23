@@ -7,7 +7,7 @@ Developed by Texas A&M University, CORAL Management provides a way to store and 
 
 ### Component Overview
 
-CORAL Management has three components in the primary navigation at the top of each page.
+CORAL Management has three components in the main navigation at the top of each page.
 
 •	Home
 
@@ -29,27 +29,28 @@ Select New Document from the main navigation to begin adding new document record
 ![Screenshot of Management's New Document form](img/management/managementNewDocument.png)
 
 
-The ‘Name’ is the document name to be uploaded. The Management module only allows one active document per record so a document named Sample Letter to Excess Download Offender would only include a copy of the letter.
+- **Name**: The document name to be uploaded. The Management module only allows one active document per record so a document named Sample Letter to Excess Download Offender would only include a copy of the letter.
 
-The ‘Description’ is a brief explanation of the document, if necessary.
+- **Description**: A brief explanation of the document, if necessary.
 
-‘Type’ is the type of document. The options listed in the dropdown box may be created from the Admin tab or by using the ‘add type’ link under the dropdown box. In the case of the Sample Letter to Excess Download Offender, the type could be template.
+- **Type**: The type of document. The options listed in the dropdown box may be created from the Admin tab or by using the ‘add type’ link under the dropdown box. In the case of the Sample Letter to Excess Download Offender, the type could be template.
 
-‘Last Document Revision’ is the date the document was last revised. If no date is entered, today’s date is used by default.
+- **Last Document Revision**: The date the document was last revised. If no date is entered, today’s date is used by default.
 
-‘Categories’ is the group of documents to which the document belongs. A document can be included in more than one category. For example, the document *Retiree Policy Regarding Access to Electronic Resources* could be in both an ‘Access Policy’ category and a ‘Licensing’ category. Categories may be created from the Admin tab or by using the ‘add category’ link under the ‘Categories’ selection box.
+- **Categories**:  The group of documents to which the document belongs. A document can be included in more than one category. For example, the document *License Agreement Checklist* could be in both an ‘Processes and Procedures’ category and a ‘Licensing’ category. Categories may be created from the Admin tab or by using the ‘add category’ link under the ‘Categories’ selection box.
 
-Selecting the ‘Browse…’ button opens the navigation pane used to browse and upload the document.
 
-‘Archived’ is used to identify documents that have been superseded by a newer version of the document.
+- **File**: Selecting the ‘Browse…’ button opens the navigation pane used to browse and upload the document.
 
-Selecting the ‘Add Optional Note’ link allows notes to be linked to the document by opening up two additional fields.
+- **Archived**: Used to identify documents that have been superseded by a newer version of the document.
 
+- **Add Optional Note**: Allows notes to be linked to the document by opening up two additional fields. 
 ![Screenshot of Management's Editing a Document Record form](img/management/managementAddOptionalNote.png)
-  
-‘Note’ provides a space to add any notes about the document.
 
-‘Note Type’ provides a way to categorize the type of note. The options listed in the dropdown box may be created from the Admin tab or by using the ‘add type’ link under the dropdown box.
+**Note** provides a space to add any notes about the document.  **Note Type** provides a way to categorize the type of note. The options listed in the dropdown box may be created from the Admin tab or by using the ‘add type’ link under the dropdown box.
+
+
+  
 
 
 ### Editing a Document Record
@@ -60,7 +61,9 @@ Once a document record has been created, the document record opens. A document r
 ![Screenshot of Management's Editing a Document Record](img/management/managementEditDocumentRecord.png)
 
 
-The above record is for a License Agreement Checklist. Below the name is the description of the document, the associated categories, the documents creation date and creator, and the date the record was last updated and by whom. In this example, there are two archived versions of the checklist as evidenced by the “2 archive(s) available” note. Selecting ‘show archives’ makes these copies visible and accessible. To add another archived version, select ‘upload archived document’ and fill in the appropriate information. As previously mentioned, there can only be one current/active document. Therefore, to add a new version of a document, the current document must be archived first. Once that happens, an ‘upload new document’ link will display. Select this and complete the necessary information to add the new version.
+The above record is for a License Agreement Checklist. Below the name is the description of the document, the associated categories, the documents creation date and creator, and the date the record was last updated and by whom. 
+
+In this example, there are two archived versions of the checklist as evidenced by the “2 archive(s) available” note. Selecting ‘show archives’ makes these copies visible and accessible. To add another archived version, select ‘upload archived document’ and fill in the appropriate information. There can only be one current/active document. To add a new version of a document, the current document must be archived first. Once that happens, an ‘upload new document’ link will display. Select this and complete the necessary information to add the new version.
 
 ### Admin
 
