@@ -51,3 +51,5 @@ Resource's identifier of provider*
 Package content customization
 
 You can personalize package content once it is imported. You can also custom package you already got even if it was not imported from GOKb. The "custom screen" display the current package's children. If the checkbox is checked: the resource will be kept, else it will be removed from database when you will click on 'Confirm customization' button.
+
+This is a test!!!
