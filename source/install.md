@@ -7,7 +7,7 @@ installation will provide advantages over manual installation because it will ch
 
 #### Software Requirements
 
-CORAL 2.0 requires following:
+CORAL 2.0 requires the following:
 
 > PHP 5.5 or above
 > 
