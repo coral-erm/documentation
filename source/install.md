@@ -17,7 +17,7 @@ CORAL 2.0 requires the following:
 
 #### Installing CORAL 2.0
 
-Note: For upgrading to CORAL 2.0 see the following section [Upgrading to CORAL](http://docs.coral-erm.org/en/latest/install.html#upgrading-to-coral)
+Note: For upgrading to CORAL 2.0 see the following section [Upgrading to CORAL](http://docs.coral-erm.org/en/v2.0.1/install.html#upgrading-to-coral)
 
 New to CORAL 2.0 is the Unified Installer which simplifies the web installation.
 
