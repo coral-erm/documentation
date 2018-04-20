@@ -2,7 +2,7 @@ Installing CORAL
 ----------------
 
 ### Installation 
-Installation can occur in one of two ways – either through the web installation script or manually.  For a manual installation see [Installing CORAL Manually](http://docs.coral-erm.org/en/latest/manual.html).  The web 
+Installation can occur in one of two ways – either through the web installation script or manually.  For a manual installation see [Installing CORAL Manually](http://docs.coral-erm.org/en/v2.0.1/manual.html).  The web 
 installation will provide advantages over manual installation because it will check MySQL privileges and PHP version and directory permissions.
 
 #### Software Requirements
