@@ -2,7 +2,7 @@ Installing CORAL
 ----------------
 
 ### Installation 
-Installation can occur in one of two ways – either through the web installation script or manually.  For a manual installation see [Installing CORAL Manually](http://docs.coral-erm.org/en/v2.0.1/manual.html).  The web 
+Installation can occur in one of two ways – either through the web installation script or manually.  For a manual installation see [Installing CORAL Manually](http://docs.coral-erm.org/en/2.0.1/manual.html).  The web 
 installation will provide advantages over manual installation because it will check MySQL privileges and PHP version and directory permissions.
 
 #### Software Requirements
@@ -10,6 +10,8 @@ installation will provide advantages over manual installation because it will ch
 CORAL 2.0 requires the following:
 
 > PHP 5.5 or above
+
+> Required PHP extensions: gettext, mbstring and mysqlnd
 > 
 > MySQL 5.5 or above (Another alternative supported is MariaDB 10 or above)
 > 
@@ -17,7 +19,7 @@ CORAL 2.0 requires the following:
 
 #### Installing CORAL 2.0
 
-Note: For upgrading to CORAL 2.0 see the following section [Upgrading to CORAL](http://docs.coral-erm.org/en/v2.0.1/install.html#upgrading-to-coral)
+Note: For upgrading to CORAL 2.0 see the following section [Upgrading to CORAL](http://docs.coral-erm.org/en/2.0.1/install.html#upgrading-to-coral)
 
 New to CORAL 2.0 is the Unified Installer which simplifies the web installation.
 
@@ -89,7 +91,7 @@ Step 11: If not using LDAP, setup an admin password for the Auth Module.  Passwo
 ![Screenshot of Default User Setup](img/install/installAuthPasswordSetup.png)
 
 
-Step 12: Choose whether or not to use the [Terms Tool](http://docs.coral-erm.org/en/latest/terms.html) functionality.
+Step 12: Choose whether or not to use the [Terms Tool](http://docs.coral-erm.org/en/2.0.1/terms.html) functionality.
 
 ![Screenshot of Terms Tool Setup](img/install/installTermsTool.png)
 
@@ -98,7 +100,7 @@ Step 13: Setup Link Resolver Base URL and Outlier Flagging Feature
 
 ![Screenshot of Link Resolver Base URL and Outlier Flagging setup](img/install/installLinkResolver.png)
 
-The Link Resolver Base URL provides a quick way to view complete holdings from within the Usage Module.  Likewise, the Outlier Flagging is used in the Usage Module to help flag imported usage data that appears incorrect.  See the [Usage Statistics Guide](http://docs.coral-erm.org/en/latest/usagestats.html) for more information.
+The Link Resolver Base URL provides a quick way to view complete holdings from within the Usage Module.  Likewise, the Outlier Flagging is used in the Usage Module to help flag imported usage data that appears incorrect.  See the [Usage Statistics Guide](http://docs.coral-erm.org/en/2.0.1/usagestats.html) for more information.
 
 Again, click the "Continue Installing" button when finished. 
 
@@ -323,7 +325,7 @@ Resources
 
 Usage
 
-Note: If you want to add a new module to the upgrade, create a new `configuration.ini` under the module's respective `/admin` folder.  Fill out the appropriate settings, such as the CORAL MySQL login info, module database names, URLs, etc.  For a more in-depth description of the `configuration.ini` settings see [Installing CORAL Manually](http://docs.coral-erm.org/en/latest/manual.html)
+Note: If you want to add a new module to the upgrade, create a new `configuration.ini` under the module's respective `/admin` folder.  Fill out the appropriate settings, such as the CORAL MySQL login info, module database names, URLs, etc.  For a more in-depth description of the `configuration.ini` settings see [Installing CORAL Manually](http://docs.coral-erm.org/en/2.0.1/manual.html)
 
 When finished updating the `configuration.ini` file under all the applicable `/admin` module folders for the new version of CORAL, you are now ready to start the unified installer script.
 

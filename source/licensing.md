@@ -192,7 +192,7 @@ Using this tab it is possible to relate a specific license to the covered journa
 
 In this example, the Cambridge University Press License Agreement is being associated with the 'Cambridge University Press Journals Complete' target in SFX ('Cambridge University Press Journals Complete' is the SFX target public name). This SFX – License connection allows for the delivery of license terms through the SFX menu as detailed in the Terms Tool User Guide. This tab is meant to be used in conjunction with the Terms Tool and can be disabled for those who do not wish to use it.
 
-For more information on the Terms Tool, go to the [Terms Tool documentation](http://coral-documentation.readthedocs.io/en/latest/licensing.html#terms-tool).  
+For more information on the Terms Tool, go to the [Terms Tool documentation](http://docs.coral-erm.org/en/2.0.1/licensing.html#terms-tool).  
 
 ### Attachments
 

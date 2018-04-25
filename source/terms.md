@@ -9,7 +9,7 @@ An add-on to CORAL Licensing, the Terms Tool enables key stakeholders such as in
 
 ### Enabling the Terms Tool
 
-The process of using the Terms Tool begins with the license record within [CORAL Licensing](http://coral-documentation.readthedocs.io/en/latest/licensing.html). The first step is for the licensing personnel to create a license record with completed expressions as in the following screenshot.
+The process of using the Terms Tool begins with the license record within [CORAL Licensing](http://docs.coral-erm.org/en/2.0.1/licensing.html). The first step is for the licensing personnel to create a license record with completed expressions as in the following screenshot.
 
 ![screenshot of Expressions table.](img/terms/termsCompletedExpressions.png)
 

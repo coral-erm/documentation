@@ -10,7 +10,7 @@ Change the admin/configuration.ini file to specify on which input columns should
 [settings]
 
 importISBNDedupingColumns="ISSN,EISSN,PrintISSN,OnlineISSN,Print ISSN,Online ISSN,ISBN,EISBN"
-For a resource in the csv file, if there is a value in one of these column that match an existing isbnOrIssn, the resource won't be imported.
+For a resource in the csv file, if there is a value in one of these columns that match an existing isbnOrIssn, the resource won't be imported.
 
 #### CSV Format
 
@@ -48,7 +48,7 @@ Resources are only created. If a resource already exists in Coral, it will not b
 #### Organizations import rules
 
 If an organization is specified for a given resource, the import tool will check if the organization already exists. If not, it will be created. In both cases, the resource will be attached to it.
-Organizations import works wheter the organization module is used or not.
+Organizations import works whether the organization module is used or not.
 If multiple organizations with the same name exists in Coral, the import tool will not attach the resource, and a warning will be issued.
 A role can be specified.
 
@@ -70,13 +70,13 @@ To use it, you need to operate a pretreatment on your data to call ImportTool->a
 
 $datas must be an array in which keys are resource attributes names and values are corresponding text, except for organizations, aliases, parent and resource type (see following section).
 
-$identifiers must be an array in which keys are the identifier type (optionnal), if there is no key, identifiers will be treated as ISxN.
+$identifiers must be an array in which keys are the identifier type (optional), if there is no key, identifiers will be treated as ISxN.
 
 ##### Datas array:
 
 All resource object attributes can be considered as key in this array and values as the content of this attributes, except organization and aliases. example : $datas['titleText'] = "name of the resource";
 
-Organizations and aliases treatement are pretty different: $datas['organization'] and $datas['alias'] are arrays:
+Organizations and aliases treatment are pretty different: $datas['organization'] and $datas['alias'] are arrays:
 
 **Organizations**:
 
