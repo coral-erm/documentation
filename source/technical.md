@@ -27,7 +27,7 @@ Installation section, below. Please note, a minimum version of PHP 5.5 is suppor
 Authentication is required for CORAL since all users are given specific privilege levels (for more on
 privilege levels refer to the user guide). CORAL has two choices for authentication – either to tie in to
 your university/library’s authentication system or to install the CORAL Authentication Module. The Authentication Module also has built in LDAP functionality. For more
-information on the CORAL Authentication module, please refer to the [Authentication Documentation](http://docs.coral-erm.org/en/latest/authentication.html).
+information on the CORAL Authentication module, please refer to the [Authentication Documentation](http://docs.coral-erm.org/en/2.0.1/authentication.html).
 
 To utilize your library’s existing authentication system, you will need to know the Server Variable name
 to use within PHP. This is a setting within configuration.ini called “remoteAuthVariableName” which will

@@ -35,7 +35,7 @@ Select *New Document* from the main navigation to begin adding new document reco
 
 **Last Document Revision**: The date the document was last revised. If no date is entered, today’s date is used by default.
 
-**Categories:** The group of documents to which the document belongs. A document can be included in more than one category. For example, the document 'Retiree Policy Regarding Access to Electronic Resources' could be in both an *Access Policy* category and a *Licensing* category. Categories may be created from the [Admin](http://coral-documentation.readthedocs.io/en/latest/management.html#admin) tab or by using the *add category* link under the *Categories* selection box.
+**Categories:** The group of documents to which the document belongs. A document can be included in more than one category. For example, the document 'Retiree Policy Regarding Access to Electronic Resources' could be in both an *Access Policy* category and a *Licensing* category. Categories may be created from the [Admin](http://docs.coral-erm.org/en/2.0.1/management.html#admin) tab or by using the *add category* link under the *Categories* selection box.
 
 Selecting the *Browse…* button opens the navigation pane used to browse and upload the document.
 
