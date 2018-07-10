@@ -17,7 +17,7 @@ CORAL 3.0 requires the following:
 > 
 > Apache 2.2 or above 
 
-Note: There are known issues with MySQL 5.7 and CORAL 3.0 (see [https://github.com/coral-erm/coral/issues/445](https://github.com/coral-erm/coral/issues/445)).  In order to use CORAL 3.0 with MySQL 5.7 you must disable the `ONLY_FULL_GROUP_BY ` option in MYSQL.  For help with this, see Stack Overflow for command line and phpMyAdmin instructions at [https://stackoverflow.com/a/36033983/4100024](https://stackoverflow.com/a/36033983/4100024).  The CORAL Steering Committee is prioritizing a fix for this in the CORAL 3.1 release.
+Note: There are known issues with MySQL 5.7 or MariaDB 10.0.34 and CORAL 3.0 (see [Issue #445](https://github.com/coral-erm/coral/issues/445)).  In order to use CORAL 3.0 with MySQL 5.7 you must disable the `ONLY_FULL_GROUP_BY ` option in MYSQL.  For help with this, see Stack Overflow for command line and phpMyAdmin instructions at [https://stackoverflow.com/a/36033983/4100024](https://stackoverflow.com/a/36033983/4100024).  The CORAL Steering Committee is prioritizing a fix for this in the CORAL 3.1 release.
 
 
 #### Installing CORAL 2.1 
