@@ -25,7 +25,7 @@ oauthsecret="secret"
 - `ilsApiUrl` is Koha's API address.
 - `ilsAdminUrl` is Koha's intranet address.
 
-If your koha version supports OAuth authentication for the REST API, you can enable it using `oauthid` and `oauthsecret`.
+If your koha version supports OAuth authentication for the REST API, you can enable it using `oauthid` and `oauthsecret`. You will need [league/oauth2-client](http://oauth2-client.thephpleague.com/) (see `organizations/admin/classes/api_client/INSTALL` for installation instructions).
 
 Once enabled, you can search for an existing vendor in Koha when creating an organization in Coral:
 
