@@ -357,3 +357,14 @@ epub_copyright = u'2016, GNU Free Documentationn 1.3'
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
+
+# -- Additional Settings recommended by ReadtheDocs in July 16th Email ------------------------
+import os
+ 
+# Set canonical URL from the Read the Docs Domain
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
+ 
+# Tell Jinja2 templates the build is running on Read the Docs
+if os.environ.get("READTHEDOCS", "") == "True":
+    html_context["READTHEDOCS"] = True
+    
