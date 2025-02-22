@@ -235,7 +235,7 @@ where they appear but leave the format alone.
 
 ### Upgrades 
 Upgrades to CORAL will be announced through the CORAL ERM Listserv.  If you wish to be added, please 
-consult http://coral-erm.org or email coral-admin@listserv.nd.edu directly. 
+consult https://coral-erm.org or email coral-admin@listserv.nd.edu directly. 
 
 In general, small upgrades with simple coding changes will not be given their own version numbers.  If
 an institution notifies us about a bug we will let them know directly when the bug fix is available.  

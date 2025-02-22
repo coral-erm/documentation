@@ -15,7 +15,7 @@ delete privileges only (no create table privileges).  This “coral” user shou
 The CORAL modules are heavily data-driven.  As a result we have provided an initial “snapshot” of our 
 data which will be inserted when the MySQL tables are created.  Most of this data may be edited 
 through the front-end if desired – refer to the user guide for more information. 
-For data models and the MySQL Workbench file, refer to http://coral-erm.org/documentation  
+For data models and the MySQL Workbench file, refer to https://coral-erm.org/documentation  
 
 #### Server-side scripting 
 
@@ -134,7 +134,7 @@ suffix
 Installation can occur in one of two ways – either through the web installation script or manually.  Web 
 installation will provide advantages over manual installation because it will check MySQL privileges and PHP version.
 
-When you first [download the scripts](http://coral-erm.org/download), it is recommended to place each one into a parent `/coral/` directory if your server is sharing space with other applications.  This is optional but it helps group all of the coral applications together. 
+When you first [download the scripts](https://coral-erm.org/download), it is recommended to place each one into a parent `/coral/` directory if your server is sharing space with other applications.  This is optional but it helps group all of the coral applications together. 
 
 For example you may have:  
 ```
@@ -315,7 +315,7 @@ where they appear but leave the format alone.
 
 ### Upgrades 
 Upgrades to CORAL will be announced through the CORAL ERM Listserv.  If you wish to be added, please 
-consult http://coral-erm.org or email coral-admin@listserv.nd.edu directly. 
+consult https://coral-erm.org or email coral-admin@listserv.nd.edu directly. 
 
 In general, small upgrades with simple coding changes will not be given their own version numbers.  If
 an institution notifies us about a bug we will let them know directly when the bug fix is available.  
