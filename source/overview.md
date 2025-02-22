@@ -19,7 +19,7 @@ The steering committee consists of the individuals and libraries that have decid
 
 ##### Who is on the committee?
 
-[Meet the Team](http://coral-erm.org/meet-the-team/)
+[Meet the Team](https://coral-erm.org/meet-the-team/)
 
 Anyone with a desire to contribute, and the time to do so, is welcome to join. Just email the Admin List and express your interest!
 
@@ -42,7 +42,7 @@ The web committee consists of the individuals and libraries that have decided to
 
 Who is on the committee?
 
-[Meet the Team](http://coral-erm.org/meet-the-team/)
+[Meet the Team](https://coral-erm.org/meet-the-team/)
 
 Anyone with a desire to contribute, and the time to do so, is welcome to join. Just email us at [help@coral-erm.org](mailto:help@coral-erm.org) to express your interest!
 
