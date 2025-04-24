@@ -2,7 +2,7 @@ CORAL Resources Module User Guide
 ---------------------------------
 
 
-### About CORAL Resources
+About CORAL Resources
 
  A component of Hesburgh Libraries locally developed ERM, CORAL
  Resources aids in the management of the electronic resource workflow
