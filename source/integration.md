@@ -22,6 +22,8 @@ In Koha, install Net::OAuth2::AuthorizationServer and enable RESTOAuth2ClientCre
 ##### Configuration
 In Koha, create a user for the REST API, edit this user, click on more -> manage API Keys -> Generate new client id/secret pair.
 
+Also, click on More -> Set permissions and give your new user the `vendors_manage` permission (found under the Acquisition management section).
+
 In Coral, edit the `[ils]` section in `organizations/admin/configuration.ini`, and add/edit the following values:
 
 ```
